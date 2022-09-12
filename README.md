@@ -7,5 +7,5 @@ Estudante de Análise e Desenvolvimento de Sistemas.
 [![Gmail Badge](https://img.shields.io/badge/-fernando.hardd@gmail.com-190707?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fernando.hardd@gmail.com)](mailto:fernando.hardd@gmail.com)
 
 
- - 💻 Desenvolvedor Java jr
- - 🌍 Mogi das Cruzes - SP
+ - 💻 Estagiário em desenvolvimento de software - GDC
+ - 🌍 São Paulo - SP
