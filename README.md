@@ -1,6 +1,6 @@
 # Fernando Rodrigues
 
-Estudante de Análise e Desenvolvimento de Sistemas.
+Formado em Análise e Desenvolvimento de Sistemas.
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Fernando%20Rodrigues-190707?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernando-rodrigues-0aa980147//)](https://www.linkedin.com/in/fernando-rodrigues-0aa980147/) 
