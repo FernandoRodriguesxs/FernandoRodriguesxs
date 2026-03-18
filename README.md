@@ -16,60 +16,79 @@
 
 ---
 
-## 👋 Sobre mim
+## Sobre mim
 
 ```typescript
 const fernando = {
   role: "Software Developer @ Adalink",
-  location: "São Paulo, Brazil 🇧🇷",
+  location: "São Paulo, Brazil",
   focus: ["Full-Stack Development", "AI Agents", "Clean Architecture"],
   currentlyWorking: "Building intelligent multi-agent systems",
   passions: ["TypeScript", "Scalable Systems", "Developer Experience"],
-  funFact: "I turn coffee into code ☕→💻"
+  funFact: "I turn coffee into code"
 };
 ```
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 <div align="center">
 
-### 💻 Languages & Frameworks
+**Languages & Frameworks**
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-### 🛠️ Tools & Platforms
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+**AI & Agents**
+
+![Vercel AI SDK](https://img.shields.io/badge/Vercel%20AI%20SDK-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Mastra](https://img.shields.io/badge/Mastra-6366f1?style=for-the-badge&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logoColor=white)
+
+**UI & Styling**
+
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![Radix UI](https://img.shields.io/badge/Radix%20UI-161618?style=for-the-badge&logo=radix-ui&logoColor=white)
+
+**Backend & Database**
+
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![BetterAuth](https://img.shields.io/badge/BetterAuth-18181B?style=for-the-badge&logoColor=white)
+
+**Tools**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
+![pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 </div>
 
 ---
 
-## 🤖 Projetos em Destaque
+## Projetos em Destaque
 
 <div align="center">
 
-| 🚀 Projeto | 📝 Descrição | 🛠️ Tech |
+| Projeto | Descrição | Tech |
 |---|---|---|
-| **[nexi-chatbot](https://github.com/FernandoRodriguesxs/nexi-chatbot)** | Chatbot inteligente com IA integrada | TypeScript |
-| **[mastra-finance-agents](https://github.com/FernandoRodriguesxs/mastra-finance-agents)** | Sistema multi-agentes para finanças | TypeScript · Mastra |
-| **[market-app](https://github.com/FernandoRodriguesxs/market-app)** | Aplicação de mercado moderna | TypeScript |
-| **[salon-schedule](https://github.com/FernandoRodriguesxs/salon-schedule)** | Sistema de agendamento com BetterAuth | TypeScript · Supabase |
+| **[nexi-chatbot](https://github.com/FernandoRodriguesxs/nexi-chatbot)** | Chatbot com Vercel AI SDK + OpenAI | Next.js · AI SDK · TypeScript |
+| **[mastra-finance-agents](https://github.com/FernandoRodriguesxs/mastra-finance-agents)** | Planejador financeiro multi-agentes | Mastra · Next.js · TypeScript |
+| **[market-app](https://github.com/FernandoRodriguesxs/market-app)** | Aplicação de mercado moderna | Next.js · TypeScript · Supabase |
+| **[salon-schedule](https://github.com/FernandoRodriguesxs/salon-schedule)** | Sistema de agendamento completo | Next.js · BetterAuth · Supabase |
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -87,16 +106,19 @@ const fernando = {
 
 ---
 
-## 🌱 O que estou aprendendo
+## Atualmente aprendendo
 
-- 🤖 **AI Agents & Multi-Agent Systems** com Mastra
-- 🏗️ **Clean Architecture** & Domain-Driven Design
-- ☁️ **Cloud-Native Development** & Microservices
-- 🔐 **Modern Authentication** patterns (BetterAuth, OAuth)
+```
+Multi-Agent Systems       ████████████░░░░  com Mastra Framework
+LLM Orchestration         ██████████░░░░░░  Vercel AI SDK + OpenAI
+RAG & Embeddings          ████████░░░░░░░░  Vector Search & Knowledge Bases
+AI Workflows              ███████░░░░░░░░░  Automação com agentes especializados
+Prompt Engineering        ██████████████░░  Construção de sistemas confiáveis
+```
 
 ---
 
-## 💬 Vamos conversar?
+## Vamos conversar?
 
 <div align="center">
 
