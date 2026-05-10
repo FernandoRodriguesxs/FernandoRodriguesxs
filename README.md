@@ -47,7 +47,6 @@ const fernando = {
 **AI & Agents**
 
 ![Vercel AI SDK](https://img.shields.io/badge/Vercel%20AI%20SDK-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Mastra](https://img.shields.io/badge/Mastra-6366f1?style=for-the-badge&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logoColor=white)
 
@@ -61,7 +60,7 @@ const fernando = {
 
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![BetterAuth](https://img.shields.io/badge/BetterAuth-18181B?style=for-the-badge&logoColor=white)
+
 
 **Tools**
 
@@ -109,7 +108,6 @@ const fernando = {
 ## Atualmente aprendendo
 
 ```
-Multi-Agent Systems       ████████████░░░░  com Mastra Framework
 LLM Orchestration         ██████████░░░░░░  Vercel AI SDK + OpenAI
 RAG & Embeddings          ████████░░░░░░░░  Vector Search & Knowledge Bases
 AI Workflows              ███████░░░░░░░░░  Automação com agentes especializados
