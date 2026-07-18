@@ -42,7 +42,6 @@ const fernando = {
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Vercel AI SDK](https://img.shields.io/badge/Vercel_AI_SDK-000000?style=flat-square&logo=vercel&logoColor=white)
-![Mastra](https://img.shields.io/badge/Mastra-6E40C9?style=flat-square&logoColor=white)
 
 **Database & Backend**
 
@@ -55,17 +54,6 @@ const fernando = {
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-
----
-
-## Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [**nexi-chatbot**](https://github.com/FernandoRodriguesxs/nexi-chatbot) | AI chatbot with streaming responses | Next.js · Vercel AI SDK · OpenAI |
-| [**mastra-finance-agents**](https://github.com/FernandoRodriguesxs/mastra-finance-agents) | Multi-agent financial planner | Mastra · Next.js · TypeScript |
-| [**market-app**](https://github.com/FernandoRodriguesxs/market-app) | Modern marketplace application | Next.js · TypeScript · Supabase |
-| [**salon-schedule**](https://github.com/FernandoRodriguesxs/salon-schedule) | Full scheduling system with auth | Next.js · BetterAuth · Supabase |
 
 ---
 
