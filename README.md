@@ -22,7 +22,6 @@ const fernando = {
   role: "Software Developer @ Adalink",
   location: "São Paulo, Brazil",
   focus: ["Full-Stack Development", "AI Agents", "Clean Architecture"],
-  currentlyBuilding: "Intelligent multi-agent systems",
   passions: ["TypeScript", "Scalable Systems", "Developer Experience"],
 };
 ```
